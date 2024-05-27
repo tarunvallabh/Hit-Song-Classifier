@@ -1,4 +1,4 @@
-# Music Popularity Predictor
+# Hit Song Predictor
 
 This project aims to predict song popularity using machine learning models. The models are trained on a dataset that includes audio features, metadata, and genre information. The main goal is to classify songs as non-hits, post-2000 hits, or pre-2000 hits.
 
